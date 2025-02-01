@@ -40,7 +40,7 @@ To run this project locally, you'll need to have the following installed:
 
 1. *Clone the repository*:
    bash
-   git clone ( link repo )
+   git clone https://github.com/Itsme-Aneek/quiz-app.git
    cd quiz-app
    
 2. *Install dependencies: Run the following command to install all required dependencies:*
